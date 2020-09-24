@@ -91,7 +91,7 @@ public class Collections {
     }
      static void treeSet(){
 
-        Set<Person> persons = new TreeSet<>(new PersonComperator());
+        /*Set<Person> persons = new TreeSet<>(new PersonComperator());
 
          persons.add(new Person("Marino", "Bantli"), new PersonComperator());
          persons.add(new Person("Mike", "Jenni"));
@@ -99,7 +99,7 @@ public class Collections {
 
          System.out.println(persons.size());
 
-         System.out.println(persons);
+         System.out.println(persons);*/
 
      }
 
