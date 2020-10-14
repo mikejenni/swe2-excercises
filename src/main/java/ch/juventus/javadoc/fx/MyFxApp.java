@@ -27,7 +27,7 @@ public class MyFxApp extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        MyFxController controller = new MyFxController();
+        ch.juventus.javadoc.fx.MyFxController controller = new ch.juventus.javadoc.fx.MyFxController();
         FXMLLoader loader = new FXMLLoader();
         loader.setLocation(new URL(PROJECT_PATH + LAYOUT_PATH));
         loader.setController(controller);
