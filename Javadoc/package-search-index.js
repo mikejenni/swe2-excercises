@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ch.juventus.javadoc"},{"l":"ch.juventus.javadoc.exceptions"},{"l":"ch.juventus.javadoc.fx"},{"l":"collections"},{"l":"generics"},{"l":"logging"},{"l":"object"}]
