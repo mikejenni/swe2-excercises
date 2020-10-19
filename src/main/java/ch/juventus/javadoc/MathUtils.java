@@ -16,7 +16,7 @@ public class MathUtils {
         return a+b;
     }
 
-    public double substraction(double a, double b){
+    public double subtraction(double a, double b){
         return a-b;
     }
 
